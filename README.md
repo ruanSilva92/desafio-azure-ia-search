@@ -1,4 +1,4 @@
-# Lab Project 04 - Azure Cognitive Search: Aplicando AI Search para Indexação e Consulta de Dados
+# Azure Cognitive Search: Aplicando AI Search para Indexação e Consulta de Dados
 
 
 ## Introdução
