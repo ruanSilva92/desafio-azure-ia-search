@@ -46,5 +46,3 @@ Outro recurso interessante são as keyphrases (frases-chave) extraídas automati
 ### Conclusão e Insights
 
 Vivemos em um momento onde a quantidade de dados disponíveis cresce constantemente — e mais importante do que ter acesso a essa informação é saber analisá-la. É nesse cenário que as soluções de Document Intelligence ganham destaque. Elas permitem transformar grandes volumes de dados em algo compreensível e valioso. Ao aplicar essas ferramentas, empresas conseguem obter insights estratégicos que seriam inviáveis de identificar manualmente, tornando a análise de dados um diferencial competitivo essencial.
-
-Se quiser, posso gerar uma versão mais informal, mais técnica ou mais visual, dependendo do seu objetivo. Quer ajustar pra algum desses estilos?
